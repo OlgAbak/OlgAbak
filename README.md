@@ -5,7 +5,7 @@
 ### Graduated from M.V. Lomonosov Moscow State University, Department of Theoretical and Applied Linguistics, Faculty of Philology, with a specialty "Linguist. Specialist in theoretical and applied linguistics." in 1997.
 ### Completed my postgraduate studies (except dissertation) in Theoretical Foundations of Information Science (Informatics) at the Russian (formely Union) Institute for Scientific and Technical Information (VINITI) of Russian Academy of Sciences (former USSR) in 2000.
 
-### I was a registered individual entrepreneur in Russian Federation until February 24, 2022, the date of Russian invasion of Ukraine, when I decided to emigrate from Russia. Now I live in Armenia, but it is not my final decision.
+### I was a registered individual entrepreneur in the Russian Federation until February 24, 2022, the date of Russian invasion of Ukraine, when I decided to emigrate from Russia. Now I live in Armenia, but it is not my final decision.
 
 ### I am a digital nomad, creator and sole proprietor. 
 
