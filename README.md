@@ -9,7 +9,9 @@
 
 ### I am a digital nomad, creator and sole proprietor. 
 
+### My interests include programming, artificial intelligence, quantum physics, category theory, type theory, logics, phylosophy, psycology.
 
+### My hobbies include writing, digital photography, digital painting.
 
 <!--
 **OlgAbak/OlgAbak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
