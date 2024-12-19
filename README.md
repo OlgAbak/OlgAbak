@@ -11,7 +11,7 @@
 
 ### My interests include programming, artificial intelligence, quantum physics, category theory, type theory, logics, phylosophy, psycology.
 
-### My hobbies include writing, digital photography, digital painting.
+### My hobbies include artistic creation, literary work, digital photography, digital painting.
 
 - 📫 How to reach me: olabtrans@aol.com
   
