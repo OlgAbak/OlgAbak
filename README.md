@@ -9,7 +9,7 @@
 
 ### I am a digital nomad, creator and sole proprietor. 
 
-### My interests include programming, artificial intelligence, quantum physics, category theory, type theory, logics, phylosophy, psycology.
+### My interests include programming, artificial intelligence, quantum physics, category theory, type theory, logics, phylosophy, psychology.
 
 ### My hobbies include artistic creation, literary work, digital photography, digital painting.
 
