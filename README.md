@@ -1,17 +1,6 @@
 # About me
-### Born in Moscow/USSR in August 1971.
-### Graduated from secondary school in Moscow/USSR in 1986.
-### Graduated from S.Ordzhonikidze Moscow Aviation Instrument-Making College with a specialty "Programming for Automated Production Systems" in 1990.
-### Graduated from M.V. Lomonosov Moscow State University, Department of Theoretical and Applied Linguistics, Faculty of Philology, with a specialty "Linguist. Specialist in theoretical and applied linguistics." in 1997.
-### Completed my postgraduate studies (except dissertation) in Theoretical Foundations of Information Science (Informatics) at the Russian (formely Union) Institute for Scientific and Technical Information (VINITI) of Russian Academy of Sciences (former USSR) in 2000.
 
-### I was a registered individual entrepreneur in the Russian Federation until February 24, 2022, the date of Russian invasion of Ukraine, when I decided to emigrate from Russia. Now I live in Armenia, but it is not my final decision.
-
-### I am a digital nomad, creator and sole proprietor. 
-
-### My interests include programming, artificial intelligence, quantum physics, category theory, type theory, logics, phylosophy, psychology.
-
-### My hobbies include artistic creation, literary work, digital photography, digital painting.
+I graduated from college in programming and university in linguistics in Moscow, Russia. For a long time, I worked as a translator of English and French in Russia, but emigrated from Russia after February 24, 2022, in protest against the war unleashed by Russia against Ukraine. I moved to Armenia, where I studied online courses in web development for two years. Currently, I work as a freelance frontend developer, have the status of an individual entrepreneur in Armenia. I am studying full-stack development. I am interested in collaboration and work on web development with companies, agencies, studios and individuals.
 
 - 📫 How to reach me: olabtrans@aol.com
   
